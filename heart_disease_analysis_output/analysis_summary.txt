@@ -1,0 +1,22 @@
+
+HEART DISEASE RISK ANALYSIS SUMMARY
+-----------------------------------
+
+1. Demographics:
+   - Older individuals and males show higher prevalence of heart disease.
+   - Age and sex are top-ranked predictors in both Random Forest and Logistic Regression.
+
+2. Lifestyle:
+   - Smoking and low exercise levels are associated with increased heart disease risk.
+   - Their model importance is moderate, suggesting secondary contribution.
+
+3. Medical History:
+   - Hypertension, diabetes, and cholesterol levels show strong separation between disease and non-disease groups.
+   - These align with clinical expectations and have high feature importance.
+
+4. Clinical Measurements:
+   - Resting BP and Max HR are among the most predictive features.
+   - Patients with lower Max HR or higher BP tend to have heart disease.
+
+-----------------------------------
+All plots and summaries have been saved in: C:\Users\Royal Technologies\UoPeople\Healthcare\heart_disease_analysis_output
