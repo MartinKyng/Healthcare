@@ -1,2 +1,6 @@
 # Healthcare
-Predicting Heart Disease Risk
+Analysis and Prediction of Heart Disease Risk
+
+### Contributors :
+Martin Ugochukwu 
+Emmanuel Chisom Egwuonwu
