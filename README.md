@@ -2,12 +2,18 @@
 Analysis and Prediction of Heart Disease Risk
 
 ### Contributors :
-Martin Ugochukwu 
+Martin Ugochukwu.
 
-Emmanuel Chisom Egwuonwu
+Emmanuel Chisom Egwuonwu.
 
-Ofoedu Okey, Chimbuchi
+Ofoedu Okey, Chimbuchi.
 
-Nwodo Nathan chidiebere
+Nwodo Nathan chidiebere.
 
-Grace Otinu Abu
+Grace Otinu Abu.
+
+Ayoola, Kehinde.
+
+Rukayya Yusuf.
+
+Temitope O. Shobande.
