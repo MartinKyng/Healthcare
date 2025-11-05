@@ -10,8 +10,6 @@ Emmanuel Chisom Egwuonwu.
 
 Ofoedu Okey, Chimbuchi.
 
-Nwodo Nathan chidiebere.
-
 Grace Otinu Abu.
 
 Ayoola, Kehinde.
@@ -19,3 +17,5 @@ Ayoola, Kehinde.
 Rukayya Yusuf.
 
 Temitope O. Shobande.
+
+Lawal Afeezat Olamide.
