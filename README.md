@@ -1,6 +1,6 @@
 # Quantia Analytics 
 
-# Healthcare
+# Healthcare Analysis
 
 Analysis and Prediction of Heart Disease Risk
 
