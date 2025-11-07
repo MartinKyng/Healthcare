@@ -1,10 +1,15 @@
+# Quantia Analytics 
+
 # Healthcare
 
 Analysis and Prediction of Heart Disease Risk
 
+
 ## Contributors
 
 Martin Ugochukwu.
+
+Emmanuel Chinomso Jonathan
 
 Emmanuel Chisom Egwuonwu.
 
